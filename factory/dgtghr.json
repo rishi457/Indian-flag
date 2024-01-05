@@ -1,0 +1,9 @@
+{
+	"name": "dgtghr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bda48cca-cb24-4b52-aa46-c82dfeadf9d2",
+		"tenantId": "34bd8bed-2ac1-41ae-9f08-4e0a3f11706c"
+	}
+}
